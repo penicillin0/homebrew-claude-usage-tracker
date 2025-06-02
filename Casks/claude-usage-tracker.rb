@@ -5,7 +5,7 @@ cask "claude-usage-tracker" do
     sha256 "8ea697dca06ed969b9293b527cb5b72ff79fe3ec782ad730cb9e53f23ab77561"
     url "https://github.com/penicillin0/claude-usage-tracker-for-mac/releases/download/v#{version}/Claude.Usage.Tracker-#{version}.dmg"
   else
-    sha256 "4b819c0145a8089365cd9c3276fef368f0293dc39527a13037953b089373a65a"
+    sha256 "2cfbfbdba4601945f0c41cc0122bdf6cd0ba50b06dcd79aaa47fff5f31ebbce7"
     url "https://github.com/penicillin0/claude-usage-tracker-for-mac/releases/download/v#{version}/Claude.Usage.Tracker-#{version}-arm64.dmg"
   end
 
